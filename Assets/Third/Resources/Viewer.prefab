@@ -43,7 +43,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc7b82b1248c84e468b83ba7fb3f14a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ApiKey: 9b223a13-458d-4962-a725-a4f11f498951
+  ApiKey: 617cee6e-5415-4e24-8d95-c0344d5e914d
   ExceptionsReporting: 1
   SessionTimeoutSec: 10
   LocationTracking: 0
@@ -242,7 +242,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d75563883a3847439f74226ac690aa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  url: https://wheel-slot.ru/zq2rMVzy?id=com.luckyjumpjet.play
+  url: https://betwinney.com/Wv9RNW4H?id=com.arkadroidx.play
 --- !u!1 &8704054625503166090
 GameObject:
   m_ObjectHideFlags: 0
